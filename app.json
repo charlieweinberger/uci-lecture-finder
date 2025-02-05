@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lecture-finder-rnr",
-    "slug": "lecture-finder-rnr",
+    "name": "lecture-finder",
+    "slug": "lecture-finder",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

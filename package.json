@@ -1,5 +1,5 @@
 {
-  "name": "lecture-finder-rnr",
+  "name": "lecture-finder",
   "main": "index.js",
   "version": "1.0.0",
   "scripts": {
@@ -13,6 +13,9 @@
     "postinstall": "npx tailwindcss -i ./global.css -o ./node_modules/.cache/nativewind/global.css"
   },
   "dependencies": {
+    "@radix-ui/react-progress": "^1.1.1",
+    "@radix-ui/react-select": "^2.1.5",
+    "@radix-ui/react-tooltip": "^1.1.7",
     "@react-navigation/native": "^7.0.0",
     "@rn-primitives/avatar": "~1.1.0",
     "@rn-primitives/portal": "~1.1.0",
